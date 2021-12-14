@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.Section {
+  padding-bottom: 57px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Grey {
+  background-color: #F5F7F9;
+  color: #54565A;
+}

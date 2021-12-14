@@ -1,0 +1,25 @@
+    
+.SearchResultList {
+    margin: 0 2.5rem;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+.AddButton {
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-left: 75%;
+  background-color: #333;
+  color: #fff;
+  max-width: 200px;
+  width: 25%;
+  height: 35px;
+}
+
+.AddButton:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.24), 0 10px 10px rgba(0,0,0,0.20);
+}
